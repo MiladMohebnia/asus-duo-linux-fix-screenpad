@@ -21,9 +21,11 @@ This Bash script automates the process of installing and configuring the ASUS WM
 
 1️⃣ **Run the script as root**
 
-\`\`\`bash
+```bash
+
 sudo ./<script_name>.sh
-\`\`\`
+
+```
 
 2️⃣ **Reboot the machine**
 
